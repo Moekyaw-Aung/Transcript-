@@ -1,0 +1,5 @@
+{
+  "name": "Declutter AI",
+  "description": "Upload photos of your rooms and get AI-powered organization and decluttering suggestions. Includes a chatbot and real-time voice assistant.",
+  "requestFramePermissions": ["microphone"]
+}
